@@ -1,4 +1,4 @@
-## [tsundoku](https://en.wikipedia.org/wiki/Tsundoku) (積ん読) - accumulating more books than you can actually get around to reading
+## [tsundoku](https://en.wikipedia.org/wiki/Tsundoku) (積ん読)
 
 ### Getting Started
 
