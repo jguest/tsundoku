@@ -1,4 +1,4 @@
-## [tsundoku](https://en.wikipedia.org/wiki/Tsundoku) (積ん読)
+# [tsundoku](https://en.wikipedia.org/wiki/Tsundoku) (積ん読)
 
 ### Getting Started
 
