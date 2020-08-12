@@ -21,3 +21,4 @@ PyCharm Setup:
 * Open this project
 * Setup 3.6, project-level interpreter
 * Create run configuration
+* Enjoy!
