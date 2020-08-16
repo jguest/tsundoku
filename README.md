@@ -5,7 +5,16 @@
 Dependences:
 
 * Python 3.6
-* MySQL `docker run --name mysql-container -e MYSQL_ROOT_PASSWORD=password -d mysql:8.0` (requires docker)
+* MySQL
+
+MySQL Mac Install:
+
+```bash
+brew install mysql
+brew services start mysql
+mysql -u root -p
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY <YOUR_PASS>;
+```
 
 Virtual Environment:
 
