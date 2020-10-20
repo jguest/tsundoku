@@ -31,3 +31,5 @@ PyCharm Setup:
 * Setup 3.6, project-level interpreter
 * Create run configuration
 * Enjoy!
+
+Test commit
